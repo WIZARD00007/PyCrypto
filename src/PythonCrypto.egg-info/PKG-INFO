@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: PythonCrypto
+Version: 1
+Summary: NORMAL TEXT TO CIPHER TEXT
+Home-page: UNKNOWN
+Author: Akshay
+Author-email: akshaysavanoor@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+PythonCrypto
+* This module contain special algorithm which converts normal text to cipher text
+* once you enter text with encryption key, text will be converted cipher text. which is nearly impossible to decrpyt without using decryption key.
+* increases integrity. 
+```python
+ #importing decryptor
+ from WizzSoup import NorJokes
+ NorJokes()
+ 
+ #importing main function and getting program related jokes
+ from WizzSoup import ProgJokes
+ ProgJokes()
+
+ #importing main function and getting maths related jokes
+ from WizzSoup import MathJokes
+ MathJokes()
+
+ #importing main function and getting some challenges/tasks
+ from WizzSoup import WizzChallenge
+ WizzChallenge()
+
+ #importing main function and getting some questions
+ from WizzSoup import WizzQsn
+ WizzQsn()
+
+```
+Developing WizzPAVal
+* To install WizzPAVal, along with the tools you need to develop
+   and run tests, run the following
+  in your virtualenv.
+```bash
+$ pip install -e .[dev]
+```
+
+

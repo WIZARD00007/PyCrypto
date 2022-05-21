@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/PythonCrypto.py
+src/PythonCrypto.egg-info/PKG-INFO
+src/PythonCrypto.egg-info/SOURCES.txt
+src/PythonCrypto.egg-info/dependency_links.txt
+src/PythonCrypto.egg-info/requires.txt
+src/PythonCrypto.egg-info/top_level.txt
